@@ -23,11 +23,11 @@ Feature
 Installation
 =========================
 
-* 1.JDK 1.8 support
+* 1.JDK 1.11 support
 
 * 2.Clone
 ```git
-git clone git@github.com:bitmartexchange/bitmart-java-sdk-api.git
+git@github.com:rajanish01/bitmart-java-sdk-api.git
 ```
 
 
